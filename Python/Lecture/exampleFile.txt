@@ -1,0 +1,5 @@
+This is the first row.
+The sentence, which starts in the second row
+ends in the third row.
+
+Last line follows an empty line.
