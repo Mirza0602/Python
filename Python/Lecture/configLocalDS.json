@@ -1,8 +1,0 @@
-{
-  "database": "dataScienceExp",
-  "schema": "schema_name",
-  "user": "postgres",
-  "host": "localhost",
-  "port": "5432",
-  "passw": "hrvanalyzer"
-}
