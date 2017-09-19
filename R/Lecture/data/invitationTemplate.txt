@@ -1,0 +1,6 @@
+Dear <SALUTATION> <FIRSTNAME> <LASTNAME>,
+
+we are happy to invite you to our annual showroom <YEAR>. The event starts on <DATE> at <TIME> in <LOCATION>, <ADDRESS>.
+We look forward to your visist.
+
+The Xcompany
