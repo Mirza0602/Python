@@ -1,8 +1,0 @@
-{
-  "database": "hrv_web",
-  "schema": "schema_name",
-  "user": "hrv_testuser",
-  "host": "pg-db-instance-5.cjqqslz7awng.eu-central-1.rds.amazonaws.com",
-  "port": "5432",
-  "passw": "elephant_runner_1215"
-}
