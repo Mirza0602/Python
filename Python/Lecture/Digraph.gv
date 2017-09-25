@@ -1,7 +1,0 @@
-digraph {
-	B [label=ref1]
-	L [label=ref2]
-	A [label="<f0> a | <f1> b | <f2> c | <f3> d| <f4> e " color=blue shape=record]
-		B -> A:f0
-		L -> A:f0
-}
