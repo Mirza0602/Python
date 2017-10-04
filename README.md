@@ -73,7 +73,7 @@ Moreover, [Scikit-Learn](http://scikit-learn.org/stable/index.html) is the most 
    
    
 ### Statistical Computing
-   1. [Selected Functions for Statistical Computing](R/Lecture/03Functions/01BasicFunctions.ipynb)
+   1. [Selected Functions for Statistical Computing](R/Lecture/05StatisticalComputing/01BasicFunctions.ipynb)
    1. [Univariate Analysis](R/Lecture/05StatisticalComputing/01UnivariateAnalysis.ipynb)
    2. [Independence and Correlations](R/Lecture/05StatisticalComputing/02IndependenceAndCorrelations.ipynb)
    3. [Regression Analysis](R/Lecture/05StatisticalComputing/03RegressionAnalysis.ipynb)
