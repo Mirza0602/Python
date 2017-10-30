@@ -4,10 +4,8 @@ In 2013, students of the Statistics class at [FSEV
 UK](https://fses.uniba.sk/en/) were asked to invite their friends to
 participate in this survey.
 
-* The data file (`responses.csv`) consists of 1010 rows and 150 columns (139
+* The data file [youngPeopleSurvey.xlsx](youngPeopleSurvey.xlsx) consists of 1010 rows and 150 columns (139
 integer and 11 categorical).
-* For convenience, the original variable names were shortened in the
-data file. See the `columns.csv` file if you want to match the data with the original names.
 * The data contain missing values.
 * The survey was presented to participants in both electronic and written form.
 * The original questionnaire was in Slovak language and was later translated
@@ -24,33 +22,6 @@ The variables can be split into the following groups:
 * **Personality traits, views on life, & opinions** (57 items)
 * **Spending habits** (7 items)
 * **Demographics** (10 items)
-
-# Research questions
-
-Many different techniques can be used to answer many questions, e.g.
-
-* **Clustering:** Given the music preferences, do people make up
-any clusters of similar behavior?
-* **Hypothesis testing:** Do women fear certain phenomena
-significantly more than men? Do the left handed people have different
-interests than right handed?
-* **Predictive modeling:** Can we predict spending habits of a person
-from his/her interests and movie or music preferences?
-* **Dimension reduction:** Can we describe a large number of human
-interests by a smaller number of latent concepts?
-* **Correlation analysis:** Are there any connections between music and
-movie preferences?
-* **Visualization:** How to effectively visualize a lot of variables
-in order to gain some meaningful insights from the data?
-* **(Multivariate) Outlier detection:** Small number of participants often cheats and randomly answers the questions. Can you identify them? Hint: [Local outlier factor][1] may help.
-* **Missing values analysis:** Are there any patterns in missing responses? What is the optimal way of imputing the values in surveys?
-* **Recommendations:** If some of user's interests are known, can we predict the other? Or, if we know what a person listen, can we predict which kind of movies he/she might like?
-
-# Past research
-
-* (in slovak) Sleziak, P. - Sabo, M.: Gender differences in the prevalence of specific phobias. Forum Statisticum Slovacum. 2014, Vol. 10, No. 6. [Differences (gender + whether people lived in village/town) in the prevalence of phobias.] 
-
-* Sabo, Miroslav. Multivariate Statistical Methods with Applications. Diss. Slovak University of Technology in Bratislava, 2014. [Clustering of variables (music preferences, movie preferences, phobias) + Clustering of people w.r.t. their interests.]
 
 # Questionnaire
 
