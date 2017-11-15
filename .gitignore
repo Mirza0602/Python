@@ -6,3 +6,5 @@ Python/Lecture/config.json
 Python/Lecture/binFileA.npy
 Python/Lecture/textFileA
 Python/Lecture/group*.*
+Python/LiveCoding/
+Python/Lecture/Online*.ipynb
