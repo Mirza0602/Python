@@ -1,0 +1,1 @@
+{"client0": {"charges": 15678.5, "bmi": 25.180785123966942, "weight": 78, "region": "southwest", "smoker": true, "age": 29, "height": 1.76, "children": 2, "sex": "male"}, "client1": {"charges": 5489.98, "bmi": 22.30935640886966, "weight": 66, "region": "southeast", "smoker": false, "age": 45, "height": 1.72, "children": 0, "sex": "female"}}
