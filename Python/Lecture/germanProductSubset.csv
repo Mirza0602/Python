@@ -1,0 +1,467 @@
+,brands,product_name,main_category,energy_100g,fat_100g,proteins_100g,salt_100g,carbohydrates_100g,sugars_100g,sodium_100g,saturated-fat_100g
+0,Candy Crush,Sour Fruit Gummies,en:sugary-snacks,1360.0,0.0,5.0,0.127,75.0,57.5,0.05,0.0
+1,Candy Crush,Jelly Fish,en:sugary-snacks,586.0,0.0,0.0,0.0762,34.0,24.0,0.03,0.0
+2,Del Monte,Ananas Scheiben gezuckert,en:plant-based-foods-and-beverages,322.0,0.0,0.0,0.02286,19.66,17.95,0.009,0.0
+4,The Invisible Chef,Pancake & Waffle Mix Lemon Blueberry,en:pancake-mix,852.0,1.0,6.0,1.33,42.0,8.0,0.523622047244,0.0
+8,The Invisible Chef,Pancake & Waffle Mix Buttermilk,en:pancake-mix,962.0,0.0,7.0,1.57,49.0,13.0,0.61811023622,0.0
+11,vitasia,Thai Noodles sweet & sour sauce,en:plant-based-foods-and-beverages,617.0,2.6,3.9,0.75,26.3,7.0,0.295275590551,0.6
+12,Sun Snacks (Aldi Süd),Salzstangen,en:salty-snacks,1583.0,4.2,11.0,6.7,71.0,2.3,2.63779527559,1.6
+14,Bergader,Edelpilz,en:dairies,1376.0,28.0,19.5,3.5,0.5,0.3,1.37795275591,19.3
+15,Ikea,Rye crispbread,en:plant-based-foods-and-beverages,1463.0,2.6,9.0,1.2,64.0,1.3,0.472440944882,0.6
+16,"Freihofer Gourmet,Aldi Einkauf GmbH & Co. oHG",Edelbitterschokolade Sao Thomé 75% Kakao,en:sugary-snacks,2314.0,42.5,9.0,0.0254,27.6,21.9,0.01,26.6
+23,"Moser-Roth,Aldi GmbH & Co. KG,Aldi Einkauf GmbH & Co. oHG",Edel-Zartbitterschokolade Minze 52 % Kakao,en:sugary-snacks,2284.0,34.5,4.5,0.01,51.5,48.3,0.00393700787402,20.9
+24,"Moser-Roth,Aldi GmbH & Co. KG,Aldi Einkauf GmbH & Co. oHG",Edel-Zartbitterschokolade Chili 52 % Kakao,en:sugary-snacks,2275.0,34.4,4.5,0.01,51.4,48.2,0.00393700787402,20.9
+25,"Scholetta,Aldi Einkauf GmbH & Co. oHG",Zarbitter Schokolade mit gerösteten Mandelstückchen und Orangenstückchen,en:sugary-snacks,2307.0,37.0,7.1,0.01,44.1,39.9,0.00393700787402,19.3
+30,Milbona,Schlagsahne,en:dairies,1207.0,30.0,2.5,0.08,3.2,3.2,0.0314960629921,20.0
+31,Combino,Sauce tomate bolognaise,en:groceries,352.0,4.3,3.9,1.4,6.8,5.1,0.551181102362,1.8
+32,"Freshona, Fresh & Easy",Cornichons,en:pickles,148.0,0.3,1.2,1.23,5.5,5.4,0.484251968504,0.1
+33,Nürnberger-Wein-Kellerei,Christkindl Glühwein,en:gluhwein,365.5,0.1,0.1,0.1,8.6,8.6,0.0393700787402,0.1
+34,"Fin Carré,Lidl Stiftung & Co. KG,Schwarz Beteiligungs GmbH,Solent GmbH",Dark chocolate 50% cocoa,en:sugary-snacks,2180.0,31.8,5.4,0.01,49.6,47.1,0.00393700787402,19.1
+35,"Saint Alby,Gebirgsjäger",Bockwurst,en:meats,1165.0,25.0,12.0,1.94,2.0,1.0,0.763779527559,9.9
+36,"Envia,Milbona",Crème Entière liquide,en:dairies,1209.0,30.0,2.4,0.08,3.4,3.4,0.0314960629921,21.0
+37,Alesto,Mélange de fruits secs,en:plant-based-foods-and-beverages,2583.0,56.5,18.0,0.0,7.5,5.0,0.0,6.5
+38,"eridanous,Milbona",Sahnejoghurt griechischer Art,de:produits-laitiers,503.0,10.0,4.6,0.1,3.2,3.2,0.0394,6.6
+39,Alesto,Erdnüsse,de:aliments-d-origine-vegetale,2575.0,50.3,25.0,1.0,13.5,5.4,0.393700787402,9.1
+40,"Naturgut,Penny",Frische Bio-Vollmilch,en:milchprodukt,285.0,3.9,3.4,0.13,4.9,4.9,0.0511811023622,2.6
+43,Vitasia China,Chow Mein Noodles,en:plant-based-foods-and-beverages,1546.0,1.0,11.8,0.43,75.6,1.7,0.169291338583,0.4
+45,"Bio Sonne,Soja Food",Bio-Veggie-Burger,en:sandwiches,949.0,8.4,20.8,2.2,14.8,2.3,0.866141732283,0.9
+47,Combino,Original italienische Vollkorn Farfalle,en:plant-based-foods-and-beverages,1452.0,1.9,13.0,0.0,64.0,4.3,0.0,0.6
+48,"Naturgut,Giaguaro",Bio-Passata,en:plant-based-foods-and-beverages,102.0,0.1,1.5,0.3,3.4,3.4,0.11811023622,0.1
+49,J.D. Gross,Edelschokolade aus original Arriba Ecuador Edelcacao 70% - Noir Dégustation 70% au croquant de caramel Equateur,en:sugary-snacks,2208.0,35.5,6.6,0.2,41.4,35.4,0.0787401574803,21.9
+50,"Crownfield,Lidl",Special Flakes Red Berries,en:plant-based-foods-and-beverages,1603.0,1.0,12.0,0.6604,78.3,13.3,0.26,0.3
+51,Milbona,Sandwich Scheiben mit Gouda,en:dairies,1373.0,27.0,18.5,3.5,3.5,3.5,1.37795275591,17.0
+52,Gutknecht,Hähnchen Nuggets Käse,en:meats,726.0,7.0,18.0,1.5,9.0,1.0,0.591,4.53
+54,Lovilio,Gorgonzola DOP picante,en:dairies,1435.0,29.9,20.24,2.5,0.4,0.1,0.984251968504,20.2
+55,Mister choc,Bellona Haselnuss,en:sugary-snacks,2318.0,35.5,9.3,0.2,48.3,38.6,0.0787401574803,15.4
+56,vitasia,Instant Nudeln Vegetarisch,en:plant-based-foods-and-beverages,1971.0,23.7,13.0,7.08,49.4,3.0,2.7874015748,12.9
+57,Landjunker,Puten-Minifilet,en:meats,465.0,2.0,23.0,0.1,0.0,0.0,0.0394,0.8
+60,"NIXE,Lidl",Thunfischfilets in eigenem Saft und Aufguss,en:canned-foods,384.0,0.6,21.2,1.0,0.1,0.0,0.393700787402,0.2
+62,Kania,Tomato Ketchup,en:groceries,477.0,0.1,1.7,2.9464,23.8,23.4,1.16,0.1
+63,"Fin Carré,//Property://,Lidl Stiftung & Co. KG,//Die Zugehörigkeit zu://,Schwarz Beteiligungs GmbH",Dark chocolate Ginger 57% cocoa,en:sugary-snacks,2229.0,31.2,4.4,0.06,54.6,48.1,0.0236220472441,18.8
+64,"Fin Carré,//Property://,Lidl Stiftung & Co. KG,//Die Zugehörigkeit zu://,Schwarz Beteiligungs GmbH",Dark chocolate Cranberry 57% cocoa,en:sugary-snacks,2239.0,32.0,4.5,0.03,53.1,46.1,0.011811023622,19.3
+66,Kania,Kania Ananas Curry,en:spreads,1489.0,34.5,2.3,1.1,9.0,6.0,0.433070866142,3.8
+68,Milbona,Bio-Organic Soja Drink,en:beverages,180.0,1.9,3.6,0.16,2.7,2.7,0.0629921259843,0.3
+69,Milbona,Milbona - 1L,en:beverages,184.0,1.1,0.7,0.1,7.6,4.4,0.0393700787402,0.2
+70,"J.D.Gross,Halloren Schokoladenfabrik AG",Pralinés Selection,en:pralines,2163.0,30.0,7.2,0.1,51.3,50.7,0.0393700787402,13.0
+71,Milbona,Protein+ Aprikose-Chia,en:dairies,433.0,0.833,10.3,0.0985,11.8,10.4,0.0388,0.0758
+72,Milbona,Protein+ Cranberry-Kokos,en:dairies,457.0,2.11,19.1,0.122,11.3,9.59,0.048,1.63
+73,Milbona,Protein+ Cashew-Berberitze,en:dairies,440.0,2.4,11.2,0.0992,8.68,5.37,0.039,0.496
+74,Milbona,Protein+ Korinthen-Quinoa,en:dairies,388.0,0.413,10.5,0.0992,10.7,8.68,0.039,0.0826
+75,My Best Veggie,Pizza Veggie „Die Herzhafte“,en:frozen-foods,848.0,5.7,9.2,1.0,27.1,4.3,0.393700787402,2.6
+76,My Best Veggie,Pizza Veggie „Die Würzige“,en:frozen-foods,794.0,4.7,9.6,1.1,25.7,5.2,0.433070866142,2.3
+77,Golden Sun,Traditioneller Basmati Reis,en:plant-based-foods-and-beverages,1485.0,0.6,7.4,0.01,78.0,0.3,0.00393700787402,0.1
+78,"Crownfield,LIDL",Muesli croustillant allégé en sucres,en:plant-based-foods-and-beverages,1824.0,14.5,10.6,0.55,59.8,10.9,0.216535433071,5.4
+81,Riggano,Pizza Edel-Salami,en:frozen-foods,1021.0,8.1,10.0,1.1,31.0,3.7,0.433070866142,3.2
+83,bio,Vollkornspaghetti,en:plant-based-foods-and-beverages,1443.0,2.0,14.0,0.01,63.0,3.0,0.00393700787402,0.4
+84,"Moser-Roth,Aldi GmbH & Co. KG,Aldi Einkauf GmbH & Co. oHG",Zartbitter-Schokolade Meersalz 52 % Kakao,en:sugary-snacks,2276.0,34.4,4.5,0.4,51.3,48.1,0.157480314961,20.9
+87,"milfina, M Classic",Kräuter Quark,en:groceries,567.0,10.0,7.5,0.85,3.6,3.4,0.334645669291,4.9
+89,"Choceur,Hosta",Kokosschokolade,en:sugary-snacks,2330.0,37.2,6.1,0.3,46.6,40.9,0.11811023622,30.4
+92,Grandessa,Heidelbeere Konfitüre Extra,en:plant-based-foods-and-beverages,960.0,0.5,0.5,0.01,54.0,53.0,0.00393700787402,0.1
+93,Genuss der Saison,Halloumi,en:dairies,1337.0,24.6,22.9,3.0,2.2,2.2,1.1811023622,17.3
+96,EDEKA,Bördespeck-Feinschmer-Gouda geräuchert,en:dairies,1482.0,29.0,23.0,1.8,0.1,0.1,0.708661417323,20.0
+98,Puda,Cranberries,en:plant-based-foods-and-beverages,1538.0,0.9,0.3,0.01,85.0,72.0,0.00393700787402,0.5
+99,Paradiso,Orange,en:fruit-juices,159.0,0.0,0.3,0.01,8.5,8.5,0.00393700787402,0.0
+100,Oster Phantasie,Schokoladen-Osterhasen,en:sugary-snacks,2317.0,38.4,6.4,0.01,40.4,40.2,0.00393700787402,23.7
+102,Naturgut,Bio-Korniger Frischkase Halbfettstufe,en:dairies,381.0,2.6,32.7,0.7,1.0,1.0,0.275590551181,2.6
+106,Alpenhain,Select Brie,en:dairies,1265.0,25.0,20.0,0.6,1.0,1.0,0.236220472441,17.0
+108,Trader Joe's,Süße kalifornische Mandeln,en:plant-based-foods-and-beverages,2561.0,55.0,21.0,0.02,5.1,3.9,0.00787401574803,4.0
+110,"Scholetta,Aldi Einkauf GmbH & Co. oHG",Zarbitter Schokolade mit gerösteten und gesalzenen Mandelstückchen,en:sugary-snacks,2359.0,39.4,7.7,1.05,41.1,37.0,0.413385826772,19.5
+111,"Freihofer Gourmet,Aldi Einkauf GmbH & Co. oHG",Edelbitterschokolade Papua Neuguinea 70% Kakao,en:sugary-snacks,2227.0,38.4,8.8,0.0254,31.1,26.9,0.01,24.1
+113,Mein Veggie Tag,Veggie Schnitzel mit Paprika-Tomaten Füllung,en:meals,841.0,9.4,12.3,1.8,15.2,5.1,0.708661417323,0.7
+114,Milsani,Frische fettarme Milch,en:dairies,197.0,1.52,3.4,0.132,4.92,4.92,0.052,1.0
+116,GutBio,Veggie-Aufschnitt,en:plant-based-foods-and-beverages,1040.0,13.0,27.0,2.0,3.7,2.8,0.787401574803,1.7
+118,Trader Joe's,Cashew-Kerne,en:plant-based-foods-and-beverages,2449.0,45.4,16.8,0.0508,26.8,7.5,0.02,8.7
+119,"Ferrero,Nutella",Nutella,en:spreads,2273.0,31.6,6.0,0.09398,57.3,56.7,0.037,10.9
+120,Salakis,Salakis,en:fresh-foods,1126.0,22.9,15.7,2.8,0.8,0.8,1.10236220472,16.2
+122,"Lindt, Lindt Excellence",Chocolat Noir 85% Cacao,en:sugary-snacks,2443.0,46.0,12.5,0.03,19.0,11.0,0.011811023622,28.0
+123,"Lindt,Chocoladefabriken Lindt & Sprüngli AG,Lindt Excellence",Chocolate negro 70% cacao,en:sugary-snacks,2350.0,41.0,9.5,0.1,34.0,29.0,0.0393700787402,24.0
+124,Leerdammer,Leerdammer Schwarzer Pfeffer - Chili,en:dairies,1480.0,29.0,23.0,1.6,1.0,1.0,0.629921259843,19.5
+125,Leerdammer,Leerdammer Léger,en:dairies,1130.0,17.0,29.5,1.6,0.1,0.1,0.629921259843,11.5
+126,Bonduelle,Erbsen mit Möhren,en:plant-based-foods-and-beverages,200.0,0.6,2.5,0.48,6.1,3.8,0.188976377953,0.0
+127,Bonduelle,Goldmais,en:plant-based-foods-and-beverages,334.0,1.9,2.9,1.016,10.8,5.2,0.4,0.5
+128,Bonduelle,Goldmais mit Chili,en:plant-based-foods-and-beverages,322.0,1.0,2.23,0.269,13.1,7.23,0.106,0.0769
+129,Haribo,Les Schtroumpfs,en:sugary-snacks,1389.0,0.5,6.6,0.029972,75.0,43.0,0.0118,0.1
+130,Président,Carré Gourmet,en:dairies,1342.0,28.0,18.0,1.3,0.1,0.1,0.511811023622,20.0
+132,Père Eugène,Camembert,en:dairies,1126.0,21.0,22.0,1.5,0.5,0.1,0.590551181102,15.0
+134,Président,Le Crémiot,en:dairies,1419.0,31.0,16.0,1.3,0.1,0.1,0.511811023622,22.0
+135,Ponthier,Marrons Cuits,fr:marrons,751.0,1.0,3.5,0.1,36.0,7.1,0.0393700787402,0.2
+136,Chavroux,"Chavroux (13,5 % MG)",en:fresh-foods,715.0,13.5,8.7,1.0,4.0,2.6,0.393700787402,9.0
+137,"Les anis de flavigny,Anis de Flavigny",Anis de Flavigny,en:sugary-snacks,1665.0,0.1,0.2,0.03,99.2,97.1,0.011811023622,0.1
+138,"Nesquik,Nestle",Nesquik Knusper-Frühstück,en:plant-based-foods-and-beverages,1632.0,4.0,8.2,0.47,76.1,25.1,0.185039370079,1.7
+139,Häagen-Dasz,cookies & cream,en:desserts,1095.0,17.1,4.4,0.21,22.7,15.2,0.0826771653543,10.8
+140,Häagen-Dazs,Creations Strawberry Cheesecake,en:desserts,1098.0,14.7,3.9,0.32,28.5,25.0,0.125984251969,9.2
+141,Aoste,Aoste Stickado,en:meats,2162.0,44.2,29.0,5.0,2.0,1.0,1.96850393701,17.7
+143,Salakis,Kräuter,en:dairies,1116.0,22.9,15.0,2.75,0.8,0.8,1.08267716535,16.3
+144,"Nestle,KitKat",KitKat Chunky,en:sugary-snacks,2206.0,28.4,6.6,1.778,61.0,51.1,0.7,16.7
+145,Sweet+Plus,Чудо,en:sugary-snacks,2370.0,34.9,8.8,0.18,53.0,37.0,0.0708661417323,11.0
+147,Dr. Willi Knoll,Bio Kartoffel Püree,en:meals,307.0,1.6,2.6,0.6,11.3,2.4,0.236220472441,0.8
+149,Schneekoppe,Leinsamen geschrotet,en:plant-based-foods-and-beverages,2135.0,42.0,18.0,0.1,3.0,1.4,0.0393700787402,31.0
+151,"Bertolli,Unilever",Pesto Rosso,en:groceries,1603.0,36.0,6.6,2.5,8.4,7.1,0.984251968504,6.6
+154,Bertolli,Basilico,en:groceries,262.0,3.0,1.0,0.0,5.0,4.0,0.0,0.0
+155,"Pommersche,Rügenwalder Mühle,Rügenwalder",100% Geflügel,en:meats,1130.0,21.0,14.0,1.5,4.0,1.2,0.590551181102,6.7
+156,Rügenwalder Mühle,Vegetarischer Schinken-Spicker mit bunter Paprika,en:plant-based-foods-and-beverages,688.0,13.0,7.1,2.3,5.1,1.6,0.905511811024,1.0
+158,"Grafschafter,Grafschafter Krautfabrik",Original Grafschafter Goldsaft,en:spreads,1267.0,0.5,2.3,0.03,69.0,66.0,0.011811023622,0.5
+159,Ritter Sport,Ritter Sport Ganze Mandel,en:sugary-snacks,2324.0,36.0,9.4,0.15,46.0,45.0,0.0590551181102,15.0
+160,Ritter Sport,Dunkle Mandel Quinoa,en:sugary-snacks,2313.0,39.0,10.0,0.01,37.0,34.0,0.00393700787402,15.0
+161,"Ritter Sport,Ritter Sport Bunte Vielfalt",Ritter Sport Knusper Tortilla Chips,en:sugary-snacks,2214.0,29.0,6.3,0.36,58.0,49.0,0.141732283465,17.0
+163,Lätta,Lätta Original,en:plant-based-foods-and-beverages,1484.0,39.0,0.5,0.53,1.9,0.5,0.208661417323,14.0
+165,Dr. Oetker,Mousse au Chocolat,en:sugary-snacks,635.0,4.8,5.2,0.33,21.0,17.0,0.129921259843,3.4
+167,Lindt,Milchschokolade,en:sugary-snacks,2275.0,32.0,7.3,0.2,56.0,55.0,0.0787401574803,19.0
+169,Lindt,Alpenvollmilch-Schokolade,en:sugary-snacks,2294.0,33.0,7.2,0.2,55.0,55.0,0.0787401574803,20.0
+170,Köln Cerealien,Vollkorn Haferfleks,en:plant-based-foods-and-beverages,1656.0,5.4,9.7,1.143,72.4,17.0,0.45,1.1
+171,Kölln Balance,Haferkleie Fleks,en:plant-based-foods-and-beverages,1611.0,6.6,14.8,0.53,59.3,11.1,0.208661417323,1.4
+173,Mounthagen,Land Kaffee ohne Koffein,de:malzkaffee,1423.0,0.2,3.8,0.2,72.0,20.0,0.0787401574803,0.1
+174,Schapfen Mühle,Porridge Hafermahlzeit Schoko,de:porridge,1730.0,9.0,9.2,0.8,70.5,24.0,0.314960629921,4.0
+175,Leicht & Cross,Leicht & Cross Vital,en:plant-based-foods-and-beverages,1544.0,2.6,11.0,1.5,69.0,2.6,0.590551181102,0.6
+176,Leicht & Cross,Leicht & Cross Roggen,en:plant-based-foods-and-beverages,1553.0,3.2,10.0,1.6,71.0,4.9,0.629921259843,0.7
+177,Leicht & Cross,Milch,de:knusperbrot,1621.0,4.6,13.0,1.6,70.0,5.2,0.629921259843,1.3
+178,Leicht & Cross,Leicht & Cross Vollkorn,en:plant-based-foods-and-beverages,1570.0,2.8,11.0,1.3,71.0,5.4,0.511811023622,0.5
+179,Haribo,Haribo Saft Goldbären,en:sugary-snacks,1437.0,0.5,5.7,0.03,77.0,46.0,0.011811023622,0.1
+181,"Dr. Oetker,Pizzaburger",Pizzaburger Diavolo,en:frozen-foods,1090.0,10.4,10.4,1.04,30.1,3.94,0.411,3.88
+184,Kerrygold,Kerrygold extra ungesalzen,en:spreads,2422.0,65.0,0.5,0.0,0.5,0.5,0.0,35.0
+185,Wiltmann,Bio Rein Rind Salami,en:meats,1122.0,20.0,21.0,3.7,1.0,1.0,1.45669291339,9.5
+186,Meßmer,Holunder Kirsche,en:beverages,10.0,0.0,0.0,0.0,0.6,0.2,0.0,0.0
+189,Mövenpick,Sunset Caramel - Caffè Freddo,en:beverages,375.0,3.6,3.2,0.1,11.1,11.1,0.0393700787402,2.3
+191,Uncle Ben's,Cremiges Curry,en:groceries,504.0,6.92,1.43,0.812,12.1,7.07,0.32,4.81
+194,Ehrmann,Almighurt Erdbeere,en:dairies,401.0,2.8,3.0,0.1,14.5,13.5,0.0393700787402,1.8
+195,Ehrmann,Grand Dessert Schoko,en:desserts,518.0,4.9,2.8,0.15,17.0,14.0,0.0590551181102,3.2
+201,Elinas,Joghurt nach griechischer Art,en:dairies,472.0,9.4,3.3,0.1,4.0,4.0,0.0393700787402,5.8
+202,Kellogg's,Crunchy Nut,en:plant-based-foods-and-beverages,1701.0,5.0,6.0,0.8,82.0,35.0,0.314960629921,0.9
+204,Rabenhorst plus,Vegan Extra,en:dietary-supplements,211.0,0.1,0.1,0.025,12.0,11.7,0.00984251968504,0.05
+205,Soja Fit,Art Leberkäse,en:plant-based-foods-and-beverages,1194.0,25.6,10.2,1.8,4.0,0.7,0.708661417323,3.3
+206,Berief,Bio Hafer Natur,en:beverages,166.0,1.4,0.6,0.13,6.0,5.2,0.0511811023622,0.2
+207,Barney's Best,Creamy Peanut Putter,en:plant-based-foods-and-beverages,2615.0,51.2,26.2,0.8382,13.7,10.1,0.33,10.3
+208,Barney's Best,Crunchy Peanut Butter,en:plant-based-foods-and-beverages,2615.0,51.5,25.9,0.9906,13.0,10.8,0.39,11.0
+209,Bio-Zentrale,Süßkartoffelchips mit Rosmarin,en:salty-snacks,2178.0,37.0,3.7,1.5,40.0,24.0,0.590551181102,3.2
+210,Biovegan,Hefe,en:food-additives,1338.0,5.6,41.0,0.2,11.0,0.2,0.0787401574803,1.3
+211,Biovegan,Gelierzucker 2:1,en:sweeteners,1643.0,0.1,0.1,0.1,95.9,95.9,0.0393700787402,0.1
+212,Biovegan,Tomaten-Creme-Suppe,en:dried-products,1266.0,1.6,6.8,7.1,62.3,33.0,2.79527559055,0.3
+216,Rosengarten,Pflaumen in Zartbitterschokolade,en:sugary-snacks,1500.0,13.6,4.3,0.02,49.7,43.1,0.00787401574803,8.3
+217,Rapunzel,Erdnussmus fein,en:plant-based-foods-and-beverages,2619.0,49.0,30.0,0.0,9.0,5.0,0.0,7.0
+219,"Rapunzel,Klare Suppe",Rapunzel Klare Brühe,de:bruhe,14.0,0.1,0.1,0.9,0.6,0.2,0.354,0.0
+220,Rapunzel,bionella,en:spreads,2461.0,43.0,6.6,0.02,43.0,40.0,0.00787401574803,11.0
+221,Bergader,Bergader Almkäse Chili,en:dairies,1466.0,28.0,25.0,1.3,0.3,0.1,0.511811023622,19.3
+222,Bergader,Bergader Almkäse Nussig Leicht,en:dairies,1117.0,16.3,29.9,1.5,0.3,0.1,0.590551181102,11.2
+224,Bergader,Almkäse,en:dairies,1862.0,44.5,12.4,1.4,0.3,0.1,0.551181102362,30.7
+225,TOP MARE,TOP MARE Forellen-Filets,en:seafood,605.0,5.6,23.0,2.21,0.5,0.5,0.870078740157,1.3
+228,Multipower,50% Protein Bar Coconut,en:dietary-supplements,1510.0,9.8,50.0,0.55626,25.0,2.2,0.219,6.5
+229,Develey,Hamburger sauce,en:groceries,1394.0,31.6,1.5,1.8,10.5,8.8,0.708661417323,2.3
+230,Lambertz,Schokoladen Lebkuchen,en:sugary-snacks,1645.0,10.8,6.5,0.38,64.8,41.3,0.149606299213,6.5
+231,Maryland,Studentenfutter mit gerösteten Erdnusskernen,de:studentenfutter,1983.0,27.0,16.0,0.03,38.0,34.0,0.011811023622,2.8
+233,Mövenpick,Mövenpick Bourbon Vanille,en:desserts,729.0,4.0,1.6,0.04,32.0,29.0,0.0157480314961,3.3
+234,Seeberger,Noisettes,en:plant-based-foods-and-beverages,2751.0,62.0,12.0,0.01,11.0,4.6,0.00393700787402,4.1
+235,Seeberger,Delikatess-Feigen,en:plant-based-foods-and-beverages,1215.0,1.4,3.7,0.1,59.0,59.0,0.0393700787402,0.2
+236,Seeberger,Datteln entsteint,en:plant-based-foods-and-beverages,1225.0,0.5,1.9,0.09,65.0,64.0,0.0354330708661,0.1
+237,Seeberger,Aprikosen ungeschwefelt,en:plant-based-foods-and-beverages,1088.0,5.0,5.0,0.03,48.0,43.0,0.011811023622,0.1
+240,FRoSTA,Gemüse Pfanne Thai,en:frozen-foods,179.0,0.9,1.7,1.34,5.6,4.4,0.527559055118,0.2
+241,FRoSTA,Gemüse Pfanne Sommergarten,en:frozen-foods,255.0,3.0,1.7,0.98,5.2,4.0,0.385826771654,1.9
+242,FRoSTA,Gemüse Pfanne Balkan,en:frozen-foods,209.0,2.3,1.5,0.94,4.8,3.7,0.370078740157,1.4
+243,FRoSTA,Tortellini Käse-Sahne,en:plant-based-foods-and-beverages,553.0,7.4,4.1,0.92,11.7,2.0,0.362204724409,4.3
+244,FRoSTA,Gemüse Pfanne Asia Curry,en:frozen-foods,240.0,2.3,1.9,0.77,6.1,3.4,0.303149606299,1.3
+245,FRoSTA,Gemüse Mix deutsche Küche ungewürzt,en:plant-based-foods-and-beverages,179.0,0.6,3.3,0.03,4.3,2.3,0.011811023622,0.2
+246,FRoSTA,Rahm Gemüse bunte Karotten & Erbsen,en:plant-based-foods-and-beverages,412.0,6.4,2.5,0.93,6.5,4.3,0.366141732283,4.3
+247,FRoSTA,Bratkartoffel Gemüse Pfanne,en:frozen-foods,364.0,2.2,1.9,0.83,13.6,1.3,0.326771653543,0.2
+248,FRoSTA,Rahm Gemüse rustikale Karotten mit Rosenkohl & Brechbohnen,en:plant-based-foods-and-beverages,320.0,5.0,2.2,0.97,4.4,3.3,0.38188976378,3.2
+249,FRoSTA,Rahm Gemüse Blumenkohl mit Karotten & Erbsen,en:plant-based-foods-and-beverages,385.0,6.4,2.4,0.87,5.1,3.1,0.342519685039,4.1
+250,Seitenbacher,"Energy,-Müsli",en:plant-based-foods-and-beverages,1620.0,9.0,12.0,0.1,59.0,12.0,0.0393700787402,2.0
+253,Kinder,Kinder Maxi Mix - 133 g,en:sugary-snacks,2342.0,33.8,8.6,0.28,54.9,49.1,0.110236220472,21.9
+254,"Kinder,Ferrero",Kinder Pingui Schoko,en:sugary-snacks,1873.0,29.7,7.0,0.254,37.8,33.1,0.1,20.0
+255,"Ferrero,duplo",duplo,en:sugary-snacks,2316.0,33.5,6.1,0.191,56.0,50.4,0.0751968503937,19.1
+257,"Nutella,Ferrero",Nutella,en:spreads,2284.0,31.8,6.6,0.102,56.9,55.9,0.040157480315,11.0
+258,"Ferrero,Duplo",Duplo,en:sugary-snacks,2316.0,33.5,6.1,0.191,56.0,50.4,0.0751968503937,19.1
+259,"Kinder,Ferrero",Kinder Weihnachtsmann,en:sugary-snacks,2413.0,36.2,8.8,0.305,53.9,53.6,0.120078740157,24.1
+260,Leicht & Cross,Goldweizen,en:plant-based-foods-and-beverages,1608.0,3.5,13.0,1.6,72.0,5.2,0.629921259843,0.7
+261,Leicht & Cross,Leicht & Cross Roggen,de:knusperbrot,1553.0,3.2,10.0,1.6,71.0,4.9,0.629921259843,0.7
+262,Söbbeke,Bio frische Vollmilch,en:dairies,271.0,3.7,3.2,0.12,4.6,4.6,0.0472440944882,2.5
+263,"Milch-Schnitte,Ferrero",Milch-Schnitte,en:sugary-snacks,1754.0,27.9,7.9,0.61,34.0,29.5,0.240157480315,16.6
+264,Dietz,Kiwi + Limette mit Aloe Vera,en:beverages,135.0,0.5,0.5,0.02,7.3,7.3,0.00787401574803,0.1
+265,"Milch-Schnitte,Ferrero",Milch-Schnitte,en:sugary-snacks,1754.0,27.9,7.9,0.61,34.0,29.5,0.240157480315,16.6
+267,Mazzetti,Aceto Balsamico,it:aceto,362.0,0.0,0.7,0.05,22.0,15.0,0.0196850393701,0.0
+269,Linda natura,American Cookies,en:sugary-snacks,2062.0,25.0,6.0,0.4,59.0,36.0,0.157480314961,14.0
+270,Lieken,Lieken Urkorn,en:plant-based-foods-and-beverages,1077.0,5.5,9.0,1.3,40.0,3.0,0.511811023622,0.6
+275,windau,Vegane Teewurst fein,en:plant-based-foods-and-beverages,989.0,22.7,2.6,2.5,5.0,1.0,0.984251968504,1.6
+277,dm Bio,Hafer Drink Natur,en:beverages,168.0,1.4,0.6,0.13,6.0,5.2,0.0511811023622,0.2
+278,dm Bio,"Haltbare Alpenmilch 3,5 % Fett",en:dairies,276.0,3.6,3.4,0.11,5.0,5.0,0.0433070866142,2.4
+279,dm Bio,Reis Drink Calcium,en:beverages,203.0,1.1,0.1,0.07,9.4,6.7,0.0275590551181,0.1
+280,dm Bio,Hafer Creme Cuisine,en:plant-based-foods-and-beverages,389.0,7.7,0.3,0.1,5.6,4.8,0.0393700787402,0.6
+281,dm Bio,Reis Creme Cuisine,en:plant-based-foods-and-beverages,407.0,8.3,0.5,0.11,5.9,3.5,0.0433070866142,1.0
+282,"Bounty,Mars",Bounty,en:sugary-snacks,2038.0,25.7,3.7,0.25,58.9,48.2,0.0984251968504,21.2
+283,M&M's,M&M's Peanut,en:sugary-snacks,2143.0,25.6,9.7,0.09,58.8,53.3,0.0354330708661,10.4
+284,Schwartau,Extra Erdbeer-Vanille,en:plant-based-foods-and-beverages,979.0,0.2,0.4,0.03,55.4,47.0,0.011811023622,0.0
+285,"Corny,Corny Sport",Eiweißquelle,en:dietary-supplements,2126.0,28.6,29.9,0.54,31.0,20.2,0.212598425197,18.1
+288,coop Feine Lebensmittel,Bücklingsfilet in feinem Rapsöl und eigenem Saft,en:canned-foods,1555.0,36.0,13.0,1.6,0.5,0.5,0.629921259843,6.5
+289,Neumarkter Lammsbräu,Neumarkter Lammsbräu Glutenfrei,en:beverages,163.0,0.5,0.5,0.01,2.8,0.5,0.00393700787402,0.1
+291,Nick,Peanutbutter Crunchy,en:spreads,2448.0,51.0,26.0,1.8,15.0,6.0,0.708661417323,6.9
+294,GEPA,Cacao pur Afrika,de:kakaopulver-schwach-entolt,1634.0,21.0,22.3,0.1,12.4,0.3,0.0393700787402,13.2
+298,Demeter,Dinkelmehl Vollkorn,en:plant-based-foods-and-beverages,1445.0,2.5,12.3,0.003,63.2,1.3,0.0011811023622,0.5
+304,"Alb-Natur,Alb Gold",Pasta,en:plant-based-foods-and-beverages,1506.0,1.5,12.0,0.02,73.0,0.2,0.00787401574803,0.6
+305,Davert,"Hirse, feines Korn",en:plant-based-foods-and-beverages,1493.0,3.9,10.6,0.01,68.5,1.5,0.00393700787402,1.0
+306,Davert,Buchweizen,en:plant-based-foods-and-beverages,1437.0,1.7,9.8,0.01,71.0,0.4,0.00393700787402,0.3
+307,Davert,Echter Basmati Reis,en:plant-based-foods-and-beverages,1511.0,1.1,9.3,0.02,76.0,0.5,0.00787401574803,0.3
+308,Davert,Thaibonnet Naturreis,en:plant-based-foods-and-beverages,1480.0,2.4,8.5,0.02,73.1,1.2,0.00787401574803,0.7
+311,Raab Vitalfood,Lupinen Protein,en:dietary-supplements,1340.0,12.0,43.0,0.05,10.0,7.0,0.0196850393701,1.5
+312,Vivil,Husten Bonbons - Eukamenthol,de:hustenbonbons,984.1,0.0,0.0,0.0,97.7,0.0,0.0,0.0
+314,"nippon,Hosta",nippon,en:plant-based-foods-and-beverages,2229.0,30.1,5.6,0.22,58.9,40.2,0.0866141732283,15.9
+317,dennree,Chiasamen,en:plant-based-foods-and-beverages,1785.0,31.0,21.0,0.04,38.0,1.2,0.0157480314961,6.1
+318,Gustoni,Hartweizen-Hirse-Fusilli,en:plant-based-foods-and-beverages,1586.0,1.4,12.0,0.01,72.0,2.0,0.00393700787402,0.3
+320,dennree,Tomaten fein-stückig,en:plant-based-foods-and-beverages,109.0,0.5,1.0,0.03,4.8,4.4,0.011811023622,0.1
+321,dennree,Oliven Öl,en:plant-based-foods-and-beverages,3389.0,92.0,0.0,0.0,0.0,0.0,0.0,14.0
+323,Ökodorf Brodowin,Ökodorf Brodowin frische Vollmilch,en:dairies,271.0,3.7,3.2,0.11,4.6,4.6,0.0433070866142,2.5
+325,Naturata,Geschälte Tomaten,en:plant-based-foods-and-beverages,105.0,0.2,1.1,0.1,4.5,3.3,0.0393700787402,0.1
+326,"Jütro Bio,Jütro",Vegane Salat Mayonnaise,en:groceries,1877.0,47.0,0.8,0.78,6.7,4.4,0.307086614173,3.4
+329,"Nestle,Kitkat",KitKat,en:sugary-snacks,2189.0,27.9,7.0,0.21,60.2,49.4,0.0826771653543,15.6
+330,bioladen*,Passierte Tomaten Passata,en:groceries,146.0,0.3,1.2,0.1,6.3,3.0,0.0393700787402,0.1
+331,bioladen,Tomaten Stückchen Cubetti,en:plant-based-foods-and-beverages,117.0,0.3,1.3,0.1,4.5,3.0,0.0393700787402,0.1
+332,bioladen,Sultaninen sonnengetrocknet,en:plant-based-foods-and-beverages,1233.0,0.6,2.5,0.05,66.2,66.2,0.0196850393701,0.2
+333,Küchle,San-apart,de:sahnestandmittel,1637.0,0.39,3.2,0.01,92.0,66.0,0.00393700787402,0.18
+334,"Layenberger,LowCarb.one",Protein Müsli Schoko-Nuss,en:plant-based-foods-and-beverages,1860.0,19.0,44.1,1.0,19.3,6.0,0.393700787402,5.3
+335,Katjes,Yoghurt-Gums,en:sugary-snacks,1338.0,0.2,1.9,0.4,74.0,52.0,0.157480314961,0.1
+338,Knorr,Sauce Hollandaise klassisch,en:groceries,1831.0,45.0,1.6,0.98,7.3,1.8,0.385826771654,27.0
+340,BioGourmet,Sonnenblumenkerne,en:plant-based-foods-and-beverages,2523.0,49.0,26.5,0.005,12.3,0.2,0.00196850393701,5.4
+341,Südmilch,frische Vollmilch,en:dairies,265.0,3.5,3.3,0.13,4.7,4.7,0.0511811023622,2.4
+344,iChoc,Choco Cookie Vegan,en:schokoladen,2337.0,35.2,3.0,0.0,56.1,42.2,0.0,20.7
+350,Badejunge,Der Sahnige,en:dairies,1521.0,33.0,17.0,1.8,0.1,0.1,0.708661417323,23.0
+354,Hipp,Frucht & Getreide Banane-Pfirsich mit Hirse,en:baby-foods,309.0,0.2,1.2,0.0508,16.0,11.9,0.02,0.0
+355,Hipp,Spaghetti Bolognese,en:baby-foods,291.0,2.9,2.2,0.28,8.2,1.3,0.110236220472,0.5
+356,Harry,1688 Mehrkorn,en:plant-based-foods-and-beverages,962.0,4.9,7.7,1.30048,35.0,2.3,0.512,0.8
+357,Harry,Soft Bröd,en:plant-based-foods-and-beverages,1189.0,4.7,8.4,0.762,48.0,10.0,0.3,0.6
+358,Goldsteig,Emmentaler,en:dairies,1612.0,29.5,30.5,0.8,0.1,0.1,0.314960629921,21.0
+360,Kühne,Cocktail Cornichons,en:pickles,139.0,0.2,1.4,1.8,5.1,4.6,0.708661417323,0.1
+361,Lihn,Sucolin,en:sussungsmittel,0.0,0.0,0.0,0.03,100.0,0.0,0.011811023622,0.0
+362,Berchtesgadener Land,Bio-Kräuterquark,en:dairies,568.0,9.3,8.5,0.9,3.9,3.6,0.354330708661,6.2
+366,Andechser Natur,Bio-Rahmjogurt Mango-Vanille,en:dairies,555.0,8.1,2.6,0.1,12.3,11.9,0.0393700787402,5.6
+367,Alnatura,Feine Oblaten-Lebkuchen,en:sugary-snacks,1659.0,12.0,7.5,0.28,60.0,45.0,0.110236220472,4.1
+368,Alnatura,Frucht Punsch Holunder,en:fruit-juices,238.0,0.1,0.3,0.0,13.5,13.5,0.0,0.0
+369,Alnatura,Tortellini Gemüse,en:plant-based-foods-and-beverages,1221.0,4.3,7.8,0.9,50.9,2.1,0.354330708661,1.4
+370,Alnatura,Dinkel Mehl Type 1050,en:plant-based-foods-and-beverages,1456.0,1.8,12.1,0.01,67.2,1.4,0.00393700787402,0.3
+373,Alnatura,Dinkel gepufft,en:plant-based-foods-and-beverages,1582.0,2.1,8.4,0.03,76.9,25.7,0.011811023622,0.3
+374,Alnatura,Knusper Bär,en:plant-based-foods-and-beverages,1602.0,7.1,11.0,0.31,64.0,9.7,0.122047244094,2.6
+375,Alnatura,Amaranth gepufft,en:plant-based-foods-and-beverages,1678.0,8.8,14.6,0.05,62.0,1.5,0.0196850393701,2.5
+376,Alnatura,Hafer Crunchy,en:plant-based-foods-and-beverages,1840.0,14.7,8.6,0.3,63.7,24.8,0.11811023622,6.8
+378,Alnatura,Dinkel Backerbsen,en:groceries,2126.0,28.3,9.3,2.5,52.8,0.8,0.984251968504,2.6
+379,Alnatura,Erdnuss Mus,en:plant-based-foods-and-beverages,2497.0,49.0,29.0,0.01,12.0,6.2,0.00393700787402,10.0
+380,Alnatura,Rohrohr Zucker,en:sweeteners,1656.0,0.0,0.0,0.01,97.4,96.7,0.00393700787402,0.0
+381,Alnatura,Beluga Linsen,en:plant-based-foods-and-beverages,1283.0,1.6,23.0,0.02,41.0,1.1,0.00787401574803,0.1
+382,Alnatura,Bananen Chips,en:plant-based-foods-and-beverages,2127.0,29.2,1.8,0.02,57.2,17.9,0.00787401574803,26.3
+384,Alnatura,Natives Olivenöl extra,en:plant-based-foods-and-beverages,3367.0,91.0,0.0,0.0,0.0,0.0,0.0,18.0
+385,Alnatura,Tomaten Stücke Natur,en:plant-based-foods-and-beverages,108.0,0.2,1.5,0.1,4.0,4.0,0.0393700787402,0.0
+386,Alnatura,Kräuter,en:groceries,298.0,3.9,1.4,1.4,7.1,6.6,0.551181102362,0.6
+387,Alnatura,Vegetarische Bolognese mit Gemüse,en:groceries,394.0,3.0,5.7,0.7,9.9,2.7,0.275590551181,0.5
+388,Alnatura,Passata Natur,en:plant-based-foods-and-beverages,95.0,0.2,1.3,0.4,3.4,3.4,0.157480314961,0.0
+389,Alnatura,Tomaten Mark,en:plant-based-foods-and-beverages,250.0,0.3,3.6,0.08,8.7,8.4,0.0314960629921,0.05
+390,Alnatura,Apfelmark mit Mango,de:fruchmark,247.0,0.4,0.4,0.01,12.4,11.9,0.00393700787402,0.1
+391,Alnatura,Apfelmark mit Aprikose,en:plant-based-foods-and-beverages,221.0,0.3,0.5,0.01,11.0,10.5,0.00393700787402,0.1
+392,Alnatura,Gewürzgurken,en:pickles,130.0,0.2,1.2,1.6,5.6,5.5,0.629921259843,0.03
+393,Alnatura,Kokos Milch,en:beverages,909.0,22.2,1.7,0.01,3.4,2.0,0.00393700787402,21.7
+394,"Alnatura, ALTANATURA",Apfelmark mit Birne,en:plant-based-foods-and-beverages,250.0,0.4,0.4,0.01,12.4,11.2,0.00393700787402,0.1
+395,Alnatura,Kokos Milch,en:beverages,909.0,22.2,0.7,0.01,3.4,2.0,0.00393700787402,21.7
+396,Alnatura,Apfelmark mit Johannisbeere,en:plant-based-foods-and-beverages,229.0,0.4,0.5,0.01,11.1,10.6,0.00393700787402,0.1
+397,Alnatura,Apfelmark,en:plant-based-foods-and-beverages,231.0,0.5,0.5,0.01,12.0,11.0,0.00393700787402,0.1
+400,"Alnatura, ALTANATURA",Dinkel Kräcker Sesam,en:salty-snacks,1910.0,21.4,17.3,2.6,43.6,0.7,1.02362204724,3.3
+401,Alnatura,Dinkel Mini Brezeln,en:salty-snacks,1723.0,9.5,12.7,4.7,65.8,1.2,1.85039370079,4.3
+402,Alnatura,Schoko Reis Waffeln,en:plant-based-foods-and-beverages,2050.0,23.4,6.1,0.14,60.7,27.9,0.0551181102362,14.0
+404,"Alnatura Selection,Alnatura",Chili Kirsch,en:sugary-snacks,2383.0,43.4,7.0,0.02,33.6,28.2,0.00787401574803,27.2
+405,Alnatura, Beeren schokoliert,en:sugary-snacks,2296.0,36.5,8.3,0.3,45.6,45.3,0.11811023622,22.9
+406,Alnatura,Macadamia Creme,en:plant-based-foods-and-beverages,2800.0,58.0,11.0,0.32,26.0,23.0,0.125984251969,16.0
+407,Alnatura,Mais-Chips Paprika,en:salty-snacks,2009.0,21.5,6.7,1.3,62.8,1.5,0.511811023622,2.2
+408,Alnatura,Schoko Zimt Mandeln,en:plant-based-foods-and-beverages,2487.0,45.7,11.5,0.13,32.2,32.0,0.0511811023622,17.4
+409,Alnatura,Schoko Mandel Knusper,en:sugary-snacks,2163.0,32.9,8.0,0.65,46.2,22.6,0.255905511811,18.5
+410,Alnatura,Roggen Vollkorn,en:plant-based-foods-and-beverages,794.0,1.1,4.4,1.1,35.7,3.9,0.433070866142,0.2
+411,Alnatura,Marzipan Taler,en:sugary-snacks,2184.0,35.7,9.3,0.01,38.7,35.7,0.00393700787402,14.0
+412,"Alnatura, ALTANATURA",Grissini,en:plant-based-foods-and-beverages,1743.0,9.2,12.3,1.6,68.2,1.5,0.629921259843,1.6
+413,"Alnatura, ALTANATURA",Trüffel Zartbitter,en:plant-based-foods-and-beverages,2250.0,37.0,7.9,0.08,40.0,37.0,0.0314960629921,17.0
+414,Alnatura,Dinkel Kräcker Curry-Kürbiskern,en:salty-snacks,1885.0,18.7,11.3,2.1,56.9,6.7,0.826771653543,7.2
+416,Alnatura,Zitronen Saft,en:fruit-juices,126.0,0.1,0.4,0.0,3.0,3.0,0.0,0.0
+417,Alnatura,Natur Reisflocken,en:baby-foods,1650.0,2.8,7.7,0.02,81.5,0.8,0.00787401574803,0.7
+418,Alnatura,Hafer Getreidebrei,en:baby-foods,1717.0,6.7,12.8,0.02,69.8,1.2,0.00787401574803,1.4
+419,Alnatura,Mini Dinkel Stangen,de:ab-1-jahr,412.0,9.2,12.5,1.0,67.1,1.1,0.393700787402,4.0
+420,Alnatura,Tofu natur,en:plant-based-foods-and-beverages,602.0,8.5,16.0,0.1,0.1,0.1,0.0393700787402,1.4
+421,"Alnatura, Alnatura Bio7 Initiative",Reis Drink,en:beverages,209.0,1.1,0.5,0.07,9.9,7.1,0.0275590551181,0.1
+423,Alnatura,Pralinen Variationen,en:plant-based-foods-and-beverages,2300.0,39.6,7.8,0.1,39.7,38.4,0.0393700787402,21.3
+424,Alnatura,Falafel,en:plant-based-foods-and-beverages,576.0,2.5,8.2,0.8,17.7,1.0,0.314960629921,0.4
+425,Alnatura,Knabber Drachen Paprika,en:salty-snacks,1877.0,15.0,12.0,3.4,64.0,7.2,1.33858267717,6.6
+426,Alnatura,Thai Kokos Curry,en:groceries,524.0,7.4,1.7,1.3,12.2,9.4,0.511811023622,2.8
+427,Alnatura,Sauerkirschen,en:plant-based-foods-and-beverages,289.0,0.5,0.9,0.01,13.0,9.0,0.00393700787402,0.1
+428,Alnatura,Kidney Bohnen,en:plant-based-foods-and-beverages,406.0,0.5,7.7,0.5,13.0,1.5,0.196850393701,0.1
+429,Alnatura,Cashew Mus,en:plant-based-foods-and-beverages,2501.0,43.0,21.0,0.04,31.0,5.3,0.0157480314961,8.6
+430,Alnatura,Limone Mohn,en:sugary-snacks,2418.0,38.0,7.5,0.27,52.0,52.0,0.106299212598,24.0
+432,Alnatura,Chips im Kessel gebacken Rosmarin & Meersalz,en:salty-snacks,2103.0,27.9,8.0,0.8,51.9,0.5,0.314960629921,3.8
+433,Alnatura,Mandel Drink ungesüßt,en:beverages,146.0,3.3,1.1,0.14,0.5,0.5,0.0551181102362,0.3
+434,Alnatura,Leinsamen Plaume & Dattel,en:plant-based-foods-and-beverages,1726.0,22.6,22.8,0.12,12.4,9.6,0.0472440944882,2.2
+435,Alnatura,Frühstücks Brei,en:plant-based-foods-and-beverages,1520.0,6.3,11.0,0.04,60.0,12.0,0.0157480314961,1.2
+436,Alnatura,Amaranth Zartbitter,en:sugary-snacks,2020.0,26.0,7.7,0.06,50.0,33.0,0.0236220472441,16.0
+437,Alnatura,Ganze Nuss Vollmilch,en:sugary-snacks,2524.0,45.0,8.9,0.17,40.0,36.0,0.0669291338583,19.0
+438,Alnatura,Sesam ungeschält,en:plant-based-foods-and-beverages,2507.0,53.0,24.0,0.01,2.0,0.5,0.00393700787402,8.3
+441,Alnatura,Obstsalat,en:plant-based-foods-and-beverages,1670.0,13.2,4.7,0.05,62.7,48.5,0.0196850393701,2.2
+443,Proformance,ISO light Grapefruit-Zitrone,de:sports-drink,80.0,0.0,0.0,0.01,4.4,4.3,0.00393700787402,0.0
+445,Freeway,Freeway MixxMax Cola & Orange,de:cola-orangenlimo,168.0,0.1,0.1,0.01,9.8,9.7,0.00393700787402,0.1
+447,Ritter Sport,Ritter Sport Haselnuss,en:sugary-snacks,2340.0,36.0,7.6,0.17,50.0,49.0,0.0669291338583,17.0
+448,Ritter Sport,Ritter Sport Marzipan,en:sugary-snacks,2088.0,28.0,6.0,0.01,52.0,50.0,0.00393700787402,14.0
+449,Ritter Sport,Ritter Sport Knusperflakes,en:sugary-snacks,2260.0,31.0,5.7,0.3,58.0,53.0,0.11811023622,19.0
+450,Ritter Sport,Ritter Sport Nugat,en:sugary-snacks,2336.0,35.0,7.4,0.13,53.0,51.0,0.0511811023622,15.0
+451,Alnatura,Granatapfel Traube,en:plant-based-foods-and-beverages,1610.0,13.0,5.5,0.03,54.0,42.0,0.011811023622,3.1
+452,Alnatura,Marzipan Nougat,en:sugary-snacks,2091.0,29.5,6.8,0.03,49.1,46.8,0.011811023622,8.0
+453,Alnatura,Dinkel Doppel Keks,en:sugary-snacks,2117.0,24.0,7.4,0.28,63.0,29.0,0.110236220472,11.0
+455,Alnatura,Mini „Wiener“ vegan,en:plant-based-foods-and-beverages,1083.0,15.0,26.0,2.2,4.1,2.9,0.866141732283,1.9
+456,Müller,Schlemmer Kiwi & Cremiger Joghurt,en:dairies,435.0,2.5,3.7,0.14,15.6,14.9,0.0551181102362,1.7
+458,iglo,Rahm-Spinat,en:plant-based-foods-and-beverages,227.0,2.6,3.5,0.85,3.3,1.8,0.334645669291,0.7
+461,Gläserne Molkerei,Bio-Joghurt mild,en:dairies,330.0,3.8,4.9,0.15,5.4,5.4,0.0590551181102,2.5
+462,Finck Naturkost,Original Ayurveda Ghee,en:ghee,3853.0,99.7,0.0,0.0,0.0,0.0,0.0,0.0
+463,Bio Company,Haferflocken fein,en:plant-based-foods-and-beverages,1468.0,7.1,11.0,0.02,56.0,1.1,0.00787401574803,1.5
+464,Finck Naturkost,Ayurveda Ghee (230G),en:spreads,3761.0,99.9,0.0,0.0,0.0,0.0,0.0,65.8
+465,Bio Company,Blütenhonig,en:spreads,1283.0,0.1,0.4,0.0,75.0,74.0,0.0,0.0
+466,Vegafit,Vegane Bällchen,en:plant-based-foods-and-beverages,1230.0,15.3,15.3,2.3,17.7,4.1,0.905511811024,1.7
+468,Soja so lecker,BIO Tofu Geräuchert,en:plant-based-foods-and-beverages,685.0,9.5,18.2,1.99898,0.7,0.7,0.787,1.9
+469,Soja so lecker,Bio Naturell,en:beverages,118.0,1.5,2.6,0.08,0.9,0.7,0.0314960629921,0.3
+470,Soja so lecker,Bio Vanille,en:beverages,166.0,1.0,1.9,0.13,5.6,5.4,0.0511811023622,0.2
+471,Soja so lecker,Bio soja reis,en:beverages,155.0,0.9,1.8,0.08,5.2,4.8,0.0314960629921,0.2
+475,Made with Luve,Made with Luve Lupinen Drink Schokolade,en:beverages,360.0,4.5,2.0,0.07,9.6,4.8,0.0275590551181,4.0
+476,Made with Luve,Lupinen Dessert Schokolade,en:desserts,490.0,3.9,3.2,0.16,17.1,12.9,0.0629921259843,3.3
+478,Wilmersburger,Scheiben Kräuter,en:plant-based-foods-and-beverages,1227.0,23.3,0.0,2.2,21.5,0.0,0.866141732283,21.2
+481,K-Classic,Baguette mit 20% Knoblauchbutterzubereitung,en:plant-based-foods-and-beverages,1431.0,14.0,7.7,1.4,44.0,2.4,0.551181102362,9.8
+482,K-Classic,Baguette mit 20% Kräuterbutterzubereitung,en:plant-based-foods-and-beverages,1431.0,14.0,7.7,1.4,44.0,2.4,0.551181102362,9.8
+483,K-Classic,Geschälte Tomaten,de:tomatenkonserven,95.0,0.5,1.1,0.3,3.0,3.0,0.11811023622,0.0
+484,K-Classic,Lasagne,en:plant-based-foods-and-beverages,557.0,0.6,4.4,0.01,26.2,1.0,0.00393700787402,0.2
+487,Jeden Tag,Butterkäse,en:dairies,1391.0,26.0,24.0,1.8,0.1,0.1,0.708661417323,17.9
+488,Edeka Bio + Vegan,Sojadrink Vanille,en:beverages,247.0,2.1,3.6,0.13,5.9,5.8,0.0511811023622,0.3
+490,Edeka,Gemüsemais superweet,en:plant-based-foods-and-beverages,377.0,2.4,2.9,0.43,12.0,4.9,0.169291338583,0.5
+491,Edeka,"Kokosraspeln, grob geraspelt",en:plant-based-foods-and-beverages,2662.0,60.0,5.9,0.0,8.4,5.5,0.0,57.4
+492,EDEKA deli,Smoothie Banane-Kirsche-Apfel-Traube-Schwarze Johannisbeere,en:beverages,320.0,0.12,0.72,0.012,16.5,15.4,0.00472,0.04
+493,Edeka Bio,Edeka Bio Paprika,en:spreads,640.0,10.1,2.2,1.6,12.6,8.4,0.629921259843,1.1
+494,Gut & Günstig,Zwiebelringe,de:snacks,2182.0,30.0,5.3,2.3,56.9,3.7,0.905511811024,2.7
+495,Edeka,Vitamin C + Zink,en:dietary-supplements,798.0,0.01,0.01,21.4884,3.19,0.35,8.46,0.01
+496,Edeka Bio,"Tomaten in Stücken, in Tomatensaft",en:plant-based-foods-and-beverages,113.0,0.2,1.5,0.1,4.0,4.0,0.0393700787402,0.0
+498,EDEKA,Cookies Vanille,en:desserts,1101.0,18.4,3.3,0.18,21.0,19.6,0.0708661417323,9.9
+500,EDEKA,Heimische Früchte Apfel Johannisbeer Kirsch Direktsaft,en:fruit-juices,202.0,0.1,0.2,0.005,10.8,10.3,0.00196850393701,0.02
+501,Gut & Günstig,Mini Gemüse Nuggets,de:frikadellen,929.0,14.0,10.0,2.2,13.0,2.6,0.866141732283,4.9
+503,EDEKA Bio,Soja Reis Drink,en:beverages,156.0,0.9,1.8,0.08,5.2,4.8,0.0314960629921,0.2
+504,Edeka Bio + Vegan,Amaranth gepufft,en:plant-based-foods-and-beverages,1808.0,7.1,15.5,0.05,71.0,0.5,0.0196850393701,2.1
+505,Edeka Bio + Vegan,Quinoa gepufft,en:plant-based-foods-and-beverages,1489.0,6.1,14.0,0.01,57.0,5.0,0.00393700787402,0.7
+506,Edeka Bio,Soja Schnetzel,en:plant-based-foods-and-beverages,1524.0,7.6,49.2,0.03,16.3,11.4,0.011811023622,1.3
+507,"Edeka Bio + Vegan,Edeka",Aubergine,en:spreads,1433.0,32.7,4.8,1.1,7.2,3.3,0.433070866142,4.1
+508,"Edeka,Edeka Italia",Mascarpone,en:dairies,1653.0,41.0,5.9,0.35,2.1,2.1,0.137795275591,27.0
+511,Gut & Günstig,Hähnchen Brust-Filets,en:meats,404.0,1.4,20.0,1.27,0.7,0.5,0.5,0.5
+512,Gut & Günstig,Salzstangen,en:salty-snacks,1627.0,4.5,12.0,5.5,72.0,2.0,2.16535433071,1.9
+513,Gut & Günstig,Käse Hefegebäckstangen,en:salty-snacks,2057.0,24.0,12.0,2.3,55.0,2.0,0.905511811024,16.0
+514,Gut & Günstig,Cola American Taste,en:beverages,173.0,0.0,0.0,0.01,10.2,10.2,0.00393700787402,0.0
+515,Gut & Günstig,"Haferflocken, kernig",en:plant-based-foods-and-beverages,1566.0,7.0,13.5,0.02,58.7,0.7,0.00787401574803,1.3
+516,Gut & Günstig,Alaska Seelachs Schnitzel,de:lachsersatze,1396.0,32.5,11.4,7.9,0.0,0.0,3.11023622047,2.6
+517,Gut & Günstig,Waldfrucht-Konfitüre extra,en:plant-based-foods-and-beverages,1102.0,0.3,0.5,0.01,61.6,57.5,0.00393700787402,0.02
+518,Gut & Günstig,Kidney Bohnen dunkelrot,en:plant-based-foods-and-beverages,448.0,0.4,7.3,0.6,15.2,2.8,0.236220472441,0.1
+519,Booster,Energy Drink,en:beverages,183.0,0.0,0.0,0.18,10.4,10.4,0.0708661417323,0.0
+520,Gut & Günstig,Pesto Rosso,en:groceries,1670.0,41.3,2.7,2.5,4.4,2.9,0.984251968504,5.0
+521,Gut & Günstig,Pazifische Schollenfilets,en:seafood,299.0,1.6,14.1,0.254,0.0,0.0,0.1,0.5
+522,Gut & Günstig,Pazifische Schollenfilets,en:seafood,754.0,8.4,11.7,0.584,13.9,1.2,0.23,0.72
+523,"Edeka,Gut & Günstig",Rucola-Champignon Ragliatelle,en:meals,506.0,3.6,4.1,0.7,17.7,0.3,0.275590551181,2.2
+524,Gut & Günstig,Paprika Chips,de:snacks,2269.0,34.0,5.8,1.6,52.0,1.2,0.629921259843,2.7
+527,Mondo Italiano,Käse Tortellini,en:plant-based-foods-and-beverages,965.0,7.5,9.0,0.9,30.5,1.0,0.354330708661,3.5
+528,Kornmühle,8 Laugen-Stangerl,en:plant-based-foods-and-beverages,887.0,1.0,7.9,3.5,41.1,2.5,1.37795275591,0.2
+530,Gutes Land,Kräuter-Butter,en:plant-based-foods-and-beverages,2354.0,62.5,1.0,1.6,1.3,0.9,0.629921259843,41.9
+531,Gutes Land,fettarme H-Milch,en:dairies,197.0,1.5,3.4,0.13,4.9,4.9,0.0511811023622,1.0
+532,Gutes Land,H-Vollmilch,en:dairies,267.0,3.5,3.3,0.13,4.8,4.8,0.0511811023622,2.3
+536,K-Classic,Frischkäse Kräuter,en:dairies,1037.0,23.0,6.8,1.1,3.9,3.8,0.433070866142,16.0
+537,K-Classic,Mozzarella schnittfest gerieben,en:dairies,1410.0,25.0,26.0,1.1,2.5,0.7,0.433070866142,18.0
+538,K-Classic,Weißer Käse,en:dairies,1113.0,21.0,19.0,2.8,0.7,0.7,1.10236220472,14.0
+539,K-Classic,Gouda in Scheiben,en:dairies,1485.0,29.0,23.0,1.8,0.1,0.1,0.708661417323,20.0
+540,ja!,Raffinade-Zucker,en:sweeteners,1700.0,0.0,0.0,0.0,100.0,100.0,0.0,0.0
+541,REWE,Bio H-Vollmilch,en:dairies,285.0,3.9,3.4,0.13,4.9,4.9,0.0511811023622,2.6
+542,REWE Bio,Bio Tomaten-Gemüsesaft,en:beverages,86.0,0.0,0.9,0.5,3.3,3.2,0.196850393701,0.0
+544,Rewe Bio,Honig-Dinkel,en:plant-based-foods-and-beverages,1594.0,3.0,12.0,0.03,73.0,19.0,0.011811023622,0.5
+547,Rewe Bio,Pizza-Tomaten,en:plant-based-foods-and-beverages,97.0,0.3,1.2,0.3,3.0,3.0,0.11811023622,0.1
+550,Rewe,"REWE Smoothie with apple, mango, passion fruit",en:beverages,243.0,0.2,0.6,0.01,11.8,11.2,0.00393700787402,0.0
+551,REWE Feine Welt,Cashew Crunch,en:plant-based-foods-and-beverages,2446.0,41.2,12.1,0.36,41.1,24.5,0.141732283465,10.8
+552,Rewe Bio,Rote Beete Aufstrich,en:spreads,1426.0,31.6,5.7,1.5,7.8,7.8,0.590551181102,3.6
+553,Rewe Bio,Pizza-Tomaten,en:plant-based-foods-and-beverages,97.0,0.3,1.2,0.3,3.0,3.0,0.11811023622,0.1
+560,"Otafuku,Otafuku Sauce Co.  Ltd.",Okonomi Sauce,en:groceries,209.0,0.0,0.0,1.6256,12.0,12.0,0.64,0.0
+563,Coca cola,Cola Zero,en:beverages,0.9,0.0,0.0,0.02,0.0,0.0,0.00787401574803,0.0
+564,Nestea,Weißer Pfirsich Geschmack ,en:beverages,5.0,0.0,0.0,0.04,0.0,0.0,0.0157480314961,0.0
+565,"Twix,Mars",Twix,en:sugary-snacks,2071.0,23.9,4.5,0.41,64.5,48.7,0.161417322835,13.9
+566,m&m's,m&m's crispy,en:sugary-snacks,2082.0,24.2,4.3,0.35,64.2,54.2,0.137795275591,15.9
+567,"Mars,Snickers",Snickers Caramel,en:sugary-snacks,1384.0,18.6,6.3,0.22,34.3,25.1,0.0866141732283,10.2
+568,"After Eight,Nestlé",After Eight,en:plant-based-foods-and-beverages,1803.0,12.9,2.3,0.04,74.1,64.4,0.0157480314961,7.4
+575,Quorn,Quorn Geschnetzeltes,en:plant-based-foods-and-beverages,477.0,2.6,14.0,0.8,5.8,1.3,0.314960629921,0.6
+577,"Kellogg's, Kellog's",Knusper Müsli Classic,en:plant-based-foods-and-beverages,2016.0,22.0,8.0,0.8,60.0,19.0,0.314960629921,11.0
+578,Kellogg's,Knusper Müsli mit Schokolade und Haselnüssen,en:plant-based-foods-and-beverages,2076.0,25.0,8.0,0.63,57.0,21.0,0.248031496063,12.0
+579,MyProtein,Cashew Butter,en:plant-based-foods-and-beverages,2420.0,48.2,20.9,0.0381,16.7,4.4,0.015,9.5
+580,MyProtein,Impact Whey Unflavourrd,en:dietary-supplements,1757.0,7.5,82.0,0.38,5.0,5.0,0.149606299213,5.0
+581,MyProtein,Omega 3,en:fats,4.0,1.0,1.0,0.0,1.0,1.0,0.0,0.23
+582,MyProtein,Impact Whey Protein White Chocolate,en:dietary-supplements,1704.0,7.3,80.0,0.37,4.9,4.9,0.145669291339,4.9
+584,MyProtein,Impact Whey Protein Raspberry Stevia Flavour,en:dietary-supplements,1704.0,7.3,80.0,0.37,4.9,4.9,0.145669291339,4.9
+585,Tyrrells,Sea Salt & Cider Vinegar,en:salty-snacks,1987.0,26.7,6.1,1.5,49.7,1.7,0.590551181102,2.9
+586,TREK,Peanut Power,en:sugary-snacks,1548.0,10.9,18.5,0.8,46.7,38.4,0.314960629921,1.8
+588,Optimum Nutrition,100% Whey Gold Standard Double Rich Chocolate Flavour,en:dietary-supplements,1558.0,3.8,78.5,0.61976,5.8,3.9,0.244,2.3
+589,Hasslacher's,Hot Drinking Chocolate,en:breakfasts,2170.0,52.4,10.2,0.01,20.2,0.0,0.00393700787402,32.5
+593,"Lipton,Unliever",ice tea,en:beverages,146.0,0.5,0.5,0.12,8.1,8.0,0.0472440944882,0.5
+595,Lotus,Pâte à tartiner au spéculos,en:spreads,2435.0,38.1,2.9,0.5334,57.0,36.8,0.21,7.6
+599,alpro,Soya Vanilla,en:beverages,232.0,1.7,3.0,0.139954,6.6,6.6,0.0551,0.3
+600,alpro,Soya Dessert Dunkle Schokolade Feinherb,en:sugary-snacks,396.0,2.3,3.0,0.14,14.7,11.8,0.0551181102362,0.8
+601,alpro,Soy milk light,en:beverages,123.0,1.2,2.1,0.0,2.0,2.0,0.0,0.2
+602,alpro,Erdbeere mit Rhabarber Soya Joghurt,en:dairies,313.0,1.9,3.6,0.25,9.4,9.4,0.0984251968504,0.3
+603,alpro,Soya light,en:beverages,114.0,1.2,2.1,0.11,1.6,1.4,0.0433070866142,0.2
+604,Alpro,Riz Original,en:beverages,197.0,1.0,0.1,0.9,9.5,3.3,0.354330708661,0.1
+605,alpro,Soya Vanille,en:beverages,229.0,1.7,3.0,0.14,6.5,6.4,0.0551181102362,0.3
+606,Alpro,"Alpro Framboise-Cranberry, Mûre",en:dairies,314.0,1.9,3.6,0.22,9.7,9.4,0.0866141732283,0.3
+607,alpro,Kokosnuss Choco Geschmack,en:beverages,171.0,1.1,0.4,0.12,7.0,5.3,0.0472440944882,1.0
+608,alpro,Soya Cuisine,en:beverages,698.0,16.8,2.0,0.14,1.6,1.6,0.0551181102362,1.9
+610,Lima,Corn maïs 100%,en:groceries,1626.0,3.4,7.9,0.33,77.8,0.2,0.129921259843,0.7
+611,Pluma,Leberpastete mit Preiselbeeren,en:meats,1196.0,21.8,11.9,2.23,11.0,11.0,0.877952755906,8.5
+613,Coca-Cola,Coca-Cola,en:beverages,180.0,0.0,0.0,0.0,10.6,10.6,0.0,0.0
+614,Fanta,Fanta Orange,en:beverages,160.0,0.0,0.0,0.008,9.2,9.2,0.00315,0.0
+615,Graasten,Ketchup,en:groceries,419.0,0.1,1.0,2.18,23.0,1.8,0.858267716535,0.0
+617,DAN CAKE,Schoko & Stracciatella Muffins,en:sugary-snacks,1646.0,19.0,5.9,1.1,51.0,27.0,0.433070866142,3.6
+619,Arla,Arla Rahmkäse - Bärlauch,en:dairies,1644.0,34.0,22.0,1.7,0.5,0.5,0.669291338583,22.0
+620,Garden Gourmet,Falafel,en:plant-based-foods-and-beverages,835.0,10.0,7.0,1.38,17.5,2.0,0.543307086614,1.1
+621,Wasa,Vollkorn,en:plant-based-foods-and-beverages,1407.0,2.0,9.0,1.0,60.0,1.5,0.393700787402,0.4
+622,Wasa,Rustikal,en:plant-based-foods-and-beverages,1377.0,1.5,9.0,1.25,59.3,1.5,0.492125984252,0.4
+623,Wasa,Mjölk,en:plant-based-foods-and-beverages,1434.0,2.5,11.0,1.26,58.5,3.5,0.496062992126,0.5
+626,Wasa,Delicate Crisp Rosemary & Sea Salt,en:plant-based-foods-and-beverages,1660.0,8.0,11.0,2.75,64.5,3.0,1.08267716535,2.8
+629,Wasa,Ballaststoffe,en:plant-based-foods-and-beverages,1388.0,5.5,13.5,1.25,42.5,2.0,0.492125984252,1.0
+630,"Wasa,Wasa Traditionell",Roggen,en:plant-based-foods-and-beverages,1416.0,2.0,10.0,1.2,60.0,0.3,0.472440944882,0.5
+636,"Ovomaltine,Wander",Ovomaltine Crunchy,en:spreads,2275.0,32.0,3.8,0.3,59.5,54.5,0.11811023622,7.1
+638,"Nescafé,Nestle",Nescafé Typ Cappuccino weniger süß,en:beverages,1683.0,12.5,13.5,1.2,55.7,30.5,0.472440944882,11.4
+639,"Smarties,Nestle",Smarties Mini,en:sugary-snacks,2000.0,19.6,5.3,0.14,69.5,64.0,0.0551181102362,11.3
+640,M-Budget,Champignons de Paris coupés,en:plant-based-foods-and-beverages,75.0,0.5,2.5,0.75,0.5,0.5,0.295275590551,0.5
+641,"Milka,TUC",Alpenmilch Schokolade & TUC Cracker,en:chocolats,2190.0,28.0,6.3,0.8,59.5,50.5,0.314960629921,16.5
+643,"Philadelphia,Philadelphia Sensations",Philadelphia Luftig & Lecker Kräuter der Provence,en:dairies,1045.0,24.0,6.2,1.1,2.8,2.8,0.433070866142,15.5
+644,"Milka,Oreo",Milka Oreo,en:sugary-snacks,2316.0,34.0,5.4,0.49,56.0,49.0,0.192913385827,19.0
+645,"Milka,Mondelez",Milka Tender Milch,en:sugary-snacks,1775.0,20.0,5.9,0.6,55.5,37.5,0.236220472441,12.5
+649,Cirio,Pasatta Rustica,en:groceries,135.0,0.1,1.2,0.02,5.3,4.2,0.00787401574803,0.1
+650,Cirio,Pulpe en dès,en:plant-based-foods-and-beverages,113.0,0.2,1.1,0.03,4.4,3.4,0.011811023622,0.1
+651,Cirio,Provvista Sugo con Basilico,en:groceries,171.0,0.3,1.5,0.93,6.6,5.1,0.366141732283,0.0
+652,"Ferrero,Nutella,Nutella B-ready,B-ready",Nutella B-ready,en:sugary-snacks,2100.0,24.1,8.3,0.608,60.9,44.6,0.23937007874,8.4
+655,Rana,Tortellini Ricotta & Spinaci,en:plant-based-foods-and-beverages,1072.0,8.0,9.0,1.2,35.5,5.5,0.472440944882,3.5
+656,Rana,Tortellini Prosciutto Crudo & Formaggio,en:plant-based-foods-and-beverages,1263.0,7.5,13.0,1.9,44.0,5.0,0.748031496063,3.0
+657,Giovanni Rana,Tortellini Pesto-Basilico & Pinoli,en:plant-based-foods-and-beverages,1284.0,14.0,10.0,1.0,34.0,4.0,0.393700787402,4.5
+659,Monini,GranFruttato,en:plant-based-foods-and-beverages,3404.0,92.0,0.0,0.0,0.0,0.0,0.0,14.0
+661,Schär,Pasta all'uovo,en:plant-based-foods-and-beverages,1579.0,4.3,6.4,0.18,76.0,0.3,0.0708661417323,1.5
+662,Schär,Brot-Mix,en:plant-based-foods-and-beverages,1461.0,1.1,3.7,1.0,77.0,4.0,0.393700787402,0.3
+663,Schär,Digestive Landtaler,en:sugary-snacks,2021.0,22.0,6.1,0.63,62.0,21.0,0.248031496063,9.0
+664,Schär,Vollkornbrot,en:plant-based-foods-and-beverages,990.0,7.0,7.0,0.83,31.0,2.0,0.326771653543,0.8
+665,LaSelva,Polpa di pomodoro,en:plant-based-foods-and-beverages,114.0,0.2,1.1,0.05,4.0,3.5,0.0196850393701,0.1
+667,Barilla,Barilla Pesto calabrese,en:groceries,1343.0,29.0,3.0,2.72,12.2,6.0,1.07086614173,4.0
+668,Barilla,i Pesti Ricotta e Noci alla Siciliana,en:groceries,1676.0,36.5,5.2,2.5,13.2,6.5,0.984251968504,5.0
+670,barilla,Pesto Pomodori Secchi,en:groceries,1390.0,30.6,2.4,2.6416,11.6,9.3,1.04,2.4
+671,Barilla,Bolognese formaggi italiani Barilla,en:groceries,353.0,3.6,3.9,1.00076,8.4,4.2,0.394,1.5
+672,Mentos,3 Erdbeere-Grüner Apfel-Himbeere,en:sugary-snacks,610.0,1.1,0.3,0.0,58.0,0.0,0.0,1.0
+673,"Oreo,Mondelez",Original,en:sugary-snacks,2010.0,20.0,5.0,0.9,69.0,38.0,0.354330708661,9.8
+678,Annabis,Organic hemp seed oil,en:plant-based-foods-and-beverages,3443.0,92.0,0.0,0.0,0.0,0.0,0.0,8.0
+679,Bambi,Plazma slana,en:sugary-snacks,1868.0,16.3,11.0,2.5,62.9,7.0,0.984251968504,6.0
+682,pcd,Smooth peanut butter,en:plant-based-foods-and-beverages,2625.0,56.0,27.0,0.8,8.5,5.4,0.314960629921,8.0
+683,Brinkers,Crunchy Mandel,en:spreads,2380.0,40.0,6.4,0.08,45.0,45.0,0.0314960629921,7.0
+684,Valess,Valess Provençal,en:meals,854.0,10.0,10.5,1.1,16.3,1.7,0.433070866142,2.7
+685,Valess,Filetstückchen,en:plant-based-foods-and-beverages,420.0,0.6,17.4,1.8,3.0,1.1,0.708661417323,0.3
+690,"Ben & Jerry's,Unilever",Raspberry Cheesecake Cookie Core,en:desserts,1209.0,18.0,3.6,0.24,28.0,23.0,0.0944881889764,9.8
+693,"Ben & Jerry's,Unilever",Chocolate & Caramel Ice Creams with Chocolatey Chunks & a Soft Caramel Core,en:desserts,1100.0,14.0,4.0,0.109982,27.0,26.0,0.0433,10.0
+694,Suki,Bread crumbs,en:plant-based-foods-and-beverages,398.0,1.5,14.0,0.38,76.0,5.0,0.149606299213,0.0
+695,Hak,Rotkohl mit Apfelstücken,en:plant-based-foods-and-beverages,272.0,0.5,1.0,0.83,13.0,12.0,0.326771653543,0.1
+699,Nongshim,Shin Ramyun Instant Noodles,en:plant-based-foods-and-beverages,1808.0,14.0,8.9,3.7,67.0,3.0,1.45669291339,6.8
+701,YumYum,Oriental Style instant noodles Beef Flavor,en:plant-based-foods-and-beverages,2010.0,22.8,7.67,5.27,59.2,4.33,2.07,11.2
+702,YumYum,Oriental Style instant noodles Chicken Flavour,en:plant-based-foods-and-beverages,379.0,4.0,4.8,1.016,11.9,0.5,0.4,1.9
+703,YumYum,Oriental Style instant noodles Curry flavour,en:plant-based-foods-and-beverages,1171.0,10.7,5.1,1.016,39.5,2.2,0.4,5.2
+704,Manner,Original Neapolitaner,en:waffles,2038.0,21.6,5.6,0.1,65.3,46.0,0.0393700787402,13.3
+705,Hauswirth,Schoko-Bananen,en:sugary-snacks,1503.0,8.5,2.1,0.12,66.0,61.0,0.0472440944882,5.1
+707,Mama's Bestes,Chili Sin Carne,en:meals,444.0,1.4,4.7,0.85,17.0,1.8,0.334645669291,0.2
+709,Steirerkraft,Kürbiskernöl,en:plant-based-foods-and-beverages,3404.0,92.0,0.0,0.0,0.0,0.0,0.0,18.0
+710,Rauch,Happy Day 100% Orange,en:fruit-juices,192.0,0.24,0.68,0.00254,9.5,9.4,0.001,0.1
+711,Joya,Joya Soya,en:beverages,246.0,1.9,3.2,0.15,6.9,6.4,0.0590551181102,0.3
+713,the Tasmanian Honey Company,Genuine Tasmanian Leatherwood Honey,en:spreads,1401.0,0.0,0.0,35.56,82.1,82.1,14.0,0.0
