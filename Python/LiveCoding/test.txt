@@ -1,0 +1,1 @@
+{'paula mayer': {'age': 20, 'sex': 'female', 'weight': 65, 'height': 1.78, 'nchild': 1, 'region': 'northeast', 'smoker': True}, 'heinz kunz': {'age': 25, 'sex': 'male', 'weight': 68, 'height': 1.7, 'nchild': 2, 'region': 'northeast', 'smoker': False}}
